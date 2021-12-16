@@ -1,3 +1,9 @@
+# SendGrid WordPress Plugin
+
+This plugin is no longer available on wp.org, so we are archiving it here. As of 12/16/2021, the plugin still works on Vital's website so we will continue using it until it breaks or until there is a security problem!
+
+# Original plugin readme
+
 === SendGrid ===
 Contributors: SendGrid
 Donate link: http://sendgrid.com/
